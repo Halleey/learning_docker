@@ -1,0 +1,21 @@
+target/
+*.class
+*.log
+*.jar
+*.war
+*.iml
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.project
+*.classpath
+
+# Spring Boot local configs
+src/main/resources/application.properties
+
+.env
+
+# Docker
+*.pid
